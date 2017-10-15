@@ -1,2 +1,2 @@
-# hello-world
-the start of a coding journey
+# Hello World
+This is my coding Journey
